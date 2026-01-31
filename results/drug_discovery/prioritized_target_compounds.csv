@@ -1,0 +1,11 @@
+compound,target,action,status,mr_score,status_score,action_score,total_score,chembl_id,notes,rationale
+Dorzagliatin,GCK,activator,Approved (China),0,4.0,2.0,6.0,CHEMBL3545252,"Dual-acting GKA, approved for T2D",Glucokinase activators (GKAs) are established T2D drug class
+4-PBA,HSPA5,chemical_chaperone,Approved (urea cycle),0,4.0,1.5,5.5,CHEMBL558,"4-phenylbutyrate, reduces ER stress",BiP/GRP78 - ER chaperone; chemical chaperones may help
+TUDCA,HSPA5,chemical_chaperone,Approved (liver),0,4.0,1.5,5.5,CHEMBL1236055,"Tauroursodeoxycholic acid, ER stress reducer",BiP/GRP78 - ER chaperone; chemical chaperones may help
+Glibenclamide,ABCC8,inhibitor,Approved,0,5.0,0.0,5.0,CHEMBL466,"Sulfonylurea, closes KATP channels",
+Diazoxide,ABCC8,opener,Approved,0,5.0,0.0,5.0,CHEMBL1438,"KATP opener, may reduce β-cell workload",
+BRD7552,PDX1,expression_inducer,Research,3,0.5,0.0,3.5,,Small molecule that increases PDX1 expression,MR shows higher PDX1 expression reduces T2D risk
+Piragliatin,GCK,activator,Phase II (discontinued),0,1.0,2.0,3.0,CHEMBL517712,"GKA, hypoglycemia concerns",Glucokinase activators (GKAs) are established T2D drug class
+MK-0941,GCK,activator,Phase II (discontinued),0,1.0,2.0,3.0,CHEMBL2105725,GKA from Merck,Glucokinase activators (GKAs) are established T2D drug class
+Salubrinal,DDIT3,indirect_inhibitor,Research tool,0,0.5,2.0,2.5,CHEMBL96661,"eIF2α phosphatase inhibitor, blocks CHOP induction",CHOP - pro-apoptotic; inhibition may protect β-cells
+Azoramide,HSPA5,ER_proteostasis,Research,0,0.5,1.5,2.0,CHEMBL3614509,Enhances ER protein folding,BiP/GRP78 - ER chaperone; chemical chaperones may help

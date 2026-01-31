@@ -1,0 +1,25 @@
+compound,category,moa,priority,rationale
+metformin,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+glipizide,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+glimepiride,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+pioglitazone,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+rosiglitazone,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+sitagliptin,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+tolbutamide,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+repaglinide,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+nateglinide,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+acarbose,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+miglitol,Known T2D Drug,Unknown,Benchmark,Established T2D therapy for comparison
+SRC-kinase-inhibitor-II,LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+rondual-kinase-inhibitor,LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+RHO-kinase-inhibitor-III[rockout],LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+RHO-kinase-inhibitor-II,LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+VEGF-receptor-2-kinase-inhibitor-IV,LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+SRC-kinase-inhibitor-I,LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+phenformin,LINCS Top Hit,Unknown,High,Connectivity score: 1.000
+BRD-K29003210,LINCS Top Hit,Unknown,High,Connectivity score: 0.700
+DCEBIO,LINCS Top Hit,Unknown,High,Connectivity score: 0.700
+CVF-SUMO-7,LINCS Top Hit,Unknown,High,Connectivity score: 0.700
+CYT387,LINCS Top Hit,Unknown,High,Connectivity score: 0.700
+DG-041,LINCS Top Hit,Unknown,High,Connectivity score: 0.700
+D-4476,LINCS Top Hit,Unknown,High,Connectivity score: 0.700

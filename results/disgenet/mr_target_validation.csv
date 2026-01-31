@@ -1,0 +1,6 @@
+gene,mr_or,mr_effect,disgenet_score,n_t2d_associations,top_disease,validated
+PDX1,0.66,protective,0.3435823492622289,3,gestational diabetes,True
+SLC2A2,0.89,protective,0.558149825435698,2,type 2 diabetes mellitus,True
+MAFA,1.14,risk,0.100567009140187,2,type 2 diabetes mellitus,True
+GCK,0.87,protective,0.5228126061447199,3,gestational diabetes,True
+INS,1.01,complex,0.442612885323647,3,gestational diabetes,True

@@ -1,0 +1,56 @@
+drug1,drug2,targets1,targets2,unique_targets,categories_covered,n_categories,unique_pathways,synergy_score,mechanisms
+Salubrinal,Diazoxide,"DDIT3, EIF2AK3",ABCC8,3,"stress, capacity",2,1020,114.15,Capacity + Stress reduction; modulator + opener
+Salubrinal,Glibenclamide,"DDIT3, EIF2AK3",ABCC8,3,"stress, capacity",2,1020,114.15,Capacity + Stress reduction; modulator + inhibitor
+Salubrinal,Metformin,"DDIT3, EIF2AK3","PRKAA2, PRKAA1",4,stress,1,1038,111.75,modulator + activator
+Dorzagliatin,Salubrinal,GCK,"DDIT3, EIF2AK3",3,"stress, capacity",2,903,103.8,Capacity + Stress reduction; activator + modulator
+Piragliatin,Salubrinal,GCK,"DDIT3, EIF2AK3",3,"stress, capacity",2,903,103.8,Capacity + Stress reduction; activator + modulator
+BRD7552,Salubrinal,PDX1,"DDIT3, EIF2AK3",3,"stress, capacity",2,868,99.1,Capacity + Stress reduction; inducer + modulator
+Glibenclamide,Metformin,ABCC8,"PRKAA2, PRKAA1",3,capacity,1,856,95.5,inhibitor + activator; Both approved
+Diazoxide,Metformin,ABCC8,"PRKAA2, PRKAA1",3,capacity,1,856,95.5,opener + activator; Both approved
+Salubrinal,TUDCA,"DDIT3, EIF2AK3",HSPA5,3,stress,1,881,93.65,modulator + chaperone
+Salubrinal,4-PBA,"DDIT3, EIF2AK3",HSPA5,3,stress,1,881,93.65,modulator + chaperone
+TUDCA,Diazoxide,HSPA5,ABCC8,2,"stress, capacity",2,725,87.3,Capacity + Stress reduction; chaperone + opener; Both approved
+4-PBA,Glibenclamide,HSPA5,ABCC8,2,"stress, capacity",2,725,87.3,Capacity + Stress reduction; chaperone + inhibitor; Both approved
+4-PBA,Diazoxide,HSPA5,ABCC8,2,"stress, capacity",2,725,87.3,Capacity + Stress reduction; chaperone + opener; Both approved
+TUDCA,Glibenclamide,HSPA5,ABCC8,2,"stress, capacity",2,725,87.3,Capacity + Stress reduction; chaperone + inhibitor; Both approved
+Salubrinal,Dapagliflozin,"DDIT3, EIF2AK3",SLC5A2,3,stress,1,721,81.35,modulator + inhibitor
+Salubrinal,Empagliflozin,"DDIT3, EIF2AK3",SLC5A2,3,stress,1,721,81.35,modulator + inhibitor
+4-PBA,Metformin,HSPA5,"PRKAA2, PRKAA1",3,stress,1,719,81.3,chaperone + activator; Both approved
+TUDCA,Metformin,HSPA5,"PRKAA2, PRKAA1",3,stress,1,719,81.3,chaperone + activator; Both approved
+BRD7552,Metformin,PDX1,"PRKAA2, PRKAA1",3,capacity,1,683,75.3,inducer + activator
+Dorzagliatin,Metformin,GCK,"PRKAA2, PRKAA1",3,capacity,1,680,75.3,Both approved
+Dorzagliatin,TUDCA,GCK,HSPA5,2,"stress, capacity",2,592,74.55,Capacity + Stress reduction; activator + chaperone; Both approved
+Dorzagliatin,4-PBA,GCK,HSPA5,2,"stress, capacity",2,592,74.55,Capacity + Stress reduction; activator + chaperone; Both approved
+Piragliatin,Metformin,GCK,"PRKAA2, PRKAA1",3,capacity,1,680,73.3,Standard combination
+Piragliatin,TUDCA,GCK,HSPA5,2,"stress, capacity",2,592,72.55,Capacity + Stress reduction; activator + chaperone
+Piragliatin,4-PBA,GCK,HSPA5,2,"stress, capacity",2,592,72.55,Capacity + Stress reduction; activator + chaperone
+BRD7552,TUDCA,PDX1,HSPA5,2,"stress, capacity",2,564,68.9,Capacity + Stress reduction; inducer + chaperone
+BRD7552,4-PBA,PDX1,HSPA5,2,"stress, capacity",2,564,68.9,Capacity + Stress reduction; inducer + chaperone
+Metformin,Empagliflozin,"PRKAA2, PRKAA1",SLC5A2,3,,0,534,62.25,activator + inhibitor; Both approved
+Metformin,Dapagliflozin,"PRKAA2, PRKAA1",SLC5A2,3,,0,534,62.25,activator + inhibitor; Both approved
+Dorzagliatin,Diazoxide,GCK,ABCC8,2,capacity,1,578,60.1,activator + opener; Both approved
+Dorzagliatin,Glibenclamide,GCK,ABCC8,2,capacity,1,578,60.1,activator + inhibitor; Both approved
+Piragliatin,Diazoxide,GCK,ABCC8,2,capacity,1,578,58.1,activator + opener
+Piragliatin,Glibenclamide,GCK,ABCC8,2,capacity,1,578,58.1,activator + inhibitor
+BRD7552,Glibenclamide,PDX1,ABCC8,2,capacity,1,571,57.6,inducer + inhibitor
+BRD7552,Diazoxide,PDX1,ABCC8,2,capacity,1,571,57.6,inducer + opener
+Diazoxide,Dapagliflozin,ABCC8,SLC5A2,2,capacity,1,485,57.0,opener + inhibitor; Both approved
+Diazoxide,Empagliflozin,ABCC8,SLC5A2,2,capacity,1,485,57.0,opener + inhibitor; Both approved
+Glibenclamide,Dapagliflozin,ABCC8,SLC5A2,2,capacity,1,485,56.0,Both approved
+Glibenclamide,Empagliflozin,ABCC8,SLC5A2,2,capacity,1,485,56.0,Both approved
+4-PBA,Dapagliflozin,HSPA5,SLC5A2,2,stress,1,387,48.65,chaperone + inhibitor; Both approved
+4-PBA,Empagliflozin,HSPA5,SLC5A2,2,stress,1,387,48.65,chaperone + inhibitor; Both approved
+TUDCA,Dapagliflozin,HSPA5,SLC5A2,2,stress,1,387,48.65,chaperone + inhibitor; Both approved
+TUDCA,Empagliflozin,HSPA5,SLC5A2,2,stress,1,387,48.65,chaperone + inhibitor; Both approved
+Dorzagliatin,Empagliflozin,GCK,SLC5A2,2,capacity,1,355,44.7,activator + inhibitor; Both approved
+Dorzagliatin,Dapagliflozin,GCK,SLC5A2,2,capacity,1,355,44.7,activator + inhibitor; Both approved
+Piragliatin,Empagliflozin,GCK,SLC5A2,2,capacity,1,355,42.7,activator + inhibitor
+Piragliatin,Dapagliflozin,GCK,SLC5A2,2,capacity,1,355,42.7,activator + inhibitor
+BRD7552,Dorzagliatin,PDX1,GCK,2,capacity,1,423,42.6,inducer + activator
+BRD7552,Piragliatin,PDX1,GCK,2,capacity,1,423,42.6,inducer + activator
+BRD7552,Empagliflozin,PDX1,SLC5A2,2,capacity,1,348,42.2,inducer + inhibitor
+BRD7552,Dapagliflozin,PDX1,SLC5A2,2,capacity,1,348,42.2,inducer + inhibitor
+Glibenclamide,Diazoxide,ABCC8,ABCC8,1,capacity,1,438,27.9,inhibitor + opener; Both approved
+4-PBA,TUDCA,HSPA5,HSPA5,1,stress,1,311,20.55,Both approved
+Dorzagliatin,Piragliatin,GCK,GCK,1,capacity,1,294,17.7,Standard combination
+Dapagliflozin,Empagliflozin,SLC5A2,SLC5A2,1,,0,77,5.85,Both approved

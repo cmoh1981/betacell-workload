@@ -1,0 +1,9 @@
+method,beta,se,pval,or,or_ci_lower,or_ci_upper,n_snp,q_stat,q_pval,intercept,intercept_se,intercept_pval,i_squared,module,n_genes,n_instruments
+IVW,,0.0,,,,,97,,,,,,,biosynthetic,15,97
+MR-Egger,,,,,,,97,,,,,,0.8736055165029064,biosynthetic,15,97
+Weighted Median,-0.0,0.0,,1.0,1.0,1.0,97,,,,,,,biosynthetic,15,97
+Simple Median,0.0,0.0,,1.0,1.0,1.0,97,,,,,,,biosynthetic,15,97
+IVW,,0.0,,,,,115,,,,,,,metabolic,17,115
+MR-Egger,,,,,,,115,,,,,,0.0,metabolic,17,115
+Weighted Median,0.12955153714285716,5.551115123125783e-17,0.0,1.1383177755968987,1.1383177755968985,1.1383177755968987,115,,,,,,,metabolic,17,115
+Simple Median,0.12955153714285716,5.551115123125783e-17,0.0,1.1383177755968987,1.1383177755968985,1.1383177755968987,115,,,,,,,metabolic,17,115

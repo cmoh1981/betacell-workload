@@ -1,0 +1,4 @@
+target,evidence_mr,evidence_gem,evidence_disgenet,tier,recommendation
+GCK,True,True,True,1,High priority therapeutic target
+PDX1,True,False,True,1,High priority therapeutic target
+SLC2A2,True,False,True,1,High priority therapeutic target

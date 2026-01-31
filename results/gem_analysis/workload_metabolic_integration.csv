@@ -1,0 +1,6 @@
+workload_state,n_cells,pct_cells,mean_cwi,metabolic_growth,description,glucose_sensing_flux,glycolysis_flux,tca_cycle_flux,oxidative_phosphorylation_flux,insulin_synthesis_flux,upr_metabolism_flux
+S1_Resting,41,15.241635687732341,0.8867058980030896,124.86814837744568,"Low metabolic demand, efficient ATP production",0.0,0.0,0.0,0.0,0.0,0.0
+S2_Active,76,28.25278810408922,0.885408549468238,124.86814837744568,High glucose-stimulated insulin secretion,0.0,0.0,0.0,0.0,0.0,0.0
+S3_Stressed,32,11.895910780669144,0.6977601847910346,124.86814837744568,"UPR activated, ER stress response",0.0,0.0,0.0,0.0,0.0,0.0
+S4_Exhausted,81,30.111524163568777,0.35578637572356775,124.86814837744573,"Metabolic dysfunction, reduced capacity",0.0,0.0,0.0,0.0,0.0,0.0
+S5_Failing,39,14.49814126394052,0.12754112210355145,124.86814837744568,"Beta-cell failure, dedifferentiation",0.0,0.0,0.0,0.0,0.0,0.0

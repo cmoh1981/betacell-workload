@@ -1,0 +1,365 @@
+diseaseId,diseaseName,geneId,geneSymbol,count,pubmeds_max,score,score_mean,associationType,source,query_gene,gene_description
+DOID:10283,prostate cancer,3651,PDX1,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,PDX1,Pancreatic and duodenal homeobox 1
+DOID:10534,stomach cancer,3651,PDX1,3.0,2.0,0.0025225770647293,0.0012188651150346,AlteredExpression|Biomarker,BeFree|LHGDN,PDX1,Pancreatic and duodenal homeobox 1
+DOID:1115,sarcoma,3651,PDX1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PDX1,Pancreatic and duodenal homeobox 1
+DOID:11714,gestational diabetes,3651,PDX1,1.0,2.0,0.0051231491541705,0.0051231491541705,GeneticVariation,BeFree|GAD|LHGDN,PDX1,Pancreatic and duodenal homeobox 1
+DOID:14221,metabolic syndrome X,3651,PDX1,1.0,3.0,0.0049176396087887,0.0049176396087887,Biomarker|GeneticVariation,BeFree|GAD,PDX1,Pancreatic and duodenal homeobox 1
+DOID:1793,pancreatic cancer,3651,PDX1,5.0,10.0,0.215612163269646,0.0443131518483226,AlteredExpression|Biomarker|GeneticVariation,BeFree|CTD_human|LHGDN,PDX1,Pancreatic and duodenal homeobox 1
+DOID:3393,coronary artery disease,3651,PDX1,1.0,1.0,0.0002835045700936,0.0002835045700936,GeneticVariation,BeFree,PDX1,Pancreatic and duodenal homeobox 1
+DOID:4606,bile duct cancer,3651,PDX1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PDX1,Pancreatic and duodenal homeobox 1
+DOID:784,chronic kidney failure,3651,PDX1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PDX1,Pancreatic and duodenal homeobox 1
+DOID:9352,type 2 diabetes mellitus,3651,PDX1,1.0,43.0,0.3435823492622289,0.3435823492622289,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|LHGDN|RGD,PDX1,Pancreatic and duodenal homeobox 1
+DOID:9744,type 1 diabetes mellitus,3651,PDX1,1.0,6.0,0.108574234953893,0.108574234953893,AlteredExpression|Biomarker|GeneticVariation,BeFree|GAD|LHGDN|MGD,PDX1,Pancreatic and duodenal homeobox 1
+DOID:9970,obesity,3651,PDX1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PDX1,Pancreatic and duodenal homeobox 1
+DOID:1324,lung cancer,6514,SLC2A2,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:1612,breast cancer,6514,SLC2A2,3.0,1.0,0.21,0.0701890030467291,Biomarker,BeFree|CTD_human,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:1793,pancreatic cancer,6514,SLC2A2,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:1936,atherosclerosis,6514,SLC2A2,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:219,colon cancer,6514,SLC2A2,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:9352,type 2 diabetes mellitus,6514,SLC2A2,1.0,30.0,0.558149825435698,0.558149825435698,Biomarker|GeneticVariation,BeFree|CLINVAR|CTD_human|GAD|LHGDN|MGD,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:9744,type 1 diabetes mellitus,6514,SLC2A2,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:9970,obesity,6514,SLC2A2,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,SLC2A2,Solute carrier family 2 member 2 (GLUT2)
+DOID:9352,type 2 diabetes mellitus,389692,MAFA,1.0,2.0,0.100567009140187,0.100567009140187,Biomarker,BeFree|MGD,MAFA,MAF bZIP transcription factor A
+DOID:9744,type 1 diabetes mellitus,389692,MAFA,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,MAFA,MAF bZIP transcription factor A
+DOID:10652,Alzheimer's disease,2645,GCK,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,GCK,Glucokinase
+DOID:10763,hypertension,2645,GCK,2.0,4.0,0.0075182116982298,0.0039008581341617,Biomarker|GeneticVariation,BeFree|GAD,GCK,Glucokinase
+DOID:11714,gestational diabetes,2645,GCK,1.0,26.0,0.2286847765459249,0.2286847765459249,Biomarker|GeneticVariation,BeFree|CLINVAR|GAD|LHGDN,GCK,Glucokinase
+DOID:14221,metabolic syndrome X,2645,GCK,1.0,5.0,0.0057681533190697,0.0057681533190697,Biomarker|GeneticVariation,BeFree|GAD,GCK,Glucokinase
+DOID:1793,pancreatic cancer,2645,GCK,4.0,2.0,0.0023170675193475,0.001371162187244,Biomarker|GeneticVariation,BeFree|GAD,GCK,Glucokinase
+DOID:1936,atherosclerosis,2645,GCK,1.0,2.0,0.004634135038695,0.004634135038695,GeneticVariation,GAD,GCK,Glucokinase
+DOID:3393,coronary artery disease,2645,GCK,2.0,1.0,0.0026005720894411,0.0014420383297674,Biomarker|GeneticVariation,BeFree|GAD,GCK,Glucokinase
+DOID:3571,liver cancer,2645,GCK,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,GCK,Glucokinase
+DOID:7148,rheumatoid arthritis,2645,GCK,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,GCK,Glucokinase
+DOID:784,chronic kidney failure,2645,GCK,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,GCK,Glucokinase
+DOID:9074,systemic lupus erythematosus,2645,GCK,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,GCK,Glucokinase
+DOID:9352,type 2 diabetes mellitus,2645,GCK,1.0,160.0,0.5228126061447199,0.5228126061447199,Biomarker|GeneticVariation|Therapeutic,BeFree|CTD_human|GAD|LHGDN|MGD|RGD,GCK,Glucokinase
+DOID:9744,type 1 diabetes mellitus,2645,GCK,1.0,11.0,0.0095027436888855,0.0095027436888855,Biomarker|GeneticVariation,BeFree|GAD,GCK,Glucokinase
+DOID:9970,obesity,2645,GCK,1.0,6.0,0.103734590369816,0.103734590369816,Biomarker|GeneticVariation,BeFree|GAD|RGD,GCK,Glucokinase
+DOID:11714,gestational diabetes,57818,G6PC2,1.0,1.0,0.0002835045700936,0.0002835045700936,GeneticVariation,BeFree,G6PC2,Glucose-6-phosphatase catalytic subunit 2
+DOID:14221,metabolic syndrome X,57818,G6PC2,1.0,2.0,0.004634135038695,0.004634135038695,GeneticVariation,GAD,G6PC2,Glucose-6-phosphatase catalytic subunit 2
+DOID:1936,atherosclerosis,57818,G6PC2,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,G6PC2,Glucose-6-phosphatase catalytic subunit 2
+DOID:9352,type 2 diabetes mellitus,57818,G6PC2,1.0,14.0,0.0274722747034783,0.0274722747034783,Biomarker|GeneticVariation,BeFree|GAD,G6PC2,Glucose-6-phosphatase catalytic subunit 2
+DOID:9744,type 1 diabetes mellitus,57818,G6PC2,1.0,12.0,0.1074691807396319,0.1074691807396319,Biomarker|GeneticVariation,BeFree|GAD|MGD,G6PC2,Glucose-6-phosphatase catalytic subunit 2
+DOID:9970,obesity,57818,G6PC2,1.0,3.0,0.0028840766595348,0.0028840766595348,Biomarker|GeneticVariation,BeFree|GAD,G6PC2,Glucose-6-phosphatase catalytic subunit 2
+DOID:0050156,idiopathic pulmonary fibrosis,3630,INS,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,INS,Insulin
+DOID:10283,prostate cancer,3630,INS,3.0,67.0,0.2136565953451039,0.087460343874704,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|LHGDN,INS,Insulin
+DOID:10534,stomach cancer,3630,INS,4.0,11.0,0.0031185502710303,0.0022094181578754,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:10608,celiac disease,3630,INS,1.0,6.0,0.0037345903698158,0.0037345903698158,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:10652,Alzheimer's disease,3630,INS,1.0,22.0,0.3219762897950169,0.3219762897950169,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|LHGDN|RGD,INS,Insulin
+DOID:10763,hypertension,3630,INS,6.0,249.0,0.274839644584077,0.0488860787664606,AlteredExpression|Biomarker|GeneticVariation|Therapeutic,BeFree|CTD_human|GAD|LHGDN,INS,Insulin
+DOID:10871,age related macular degeneration,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:11054,urinary bladder cancer,3630,INS,2.0,5.0,0.0014175228504683,0.0014175228504683,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:1115,sarcoma,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:11476,osteoporosis,3630,INS,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,INS,Insulin
+DOID:11612,polycystic ovary syndrome,3630,INS,1.0,232.0,0.288947559245544,0.288947559245544,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|LHGDN,INS,Insulin
+DOID:11714,gestational diabetes,3630,INS,1.0,98.0,0.0323395878831628,0.0323395878831628,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,INS,Insulin
+DOID:1192,peripheral nervous system neoplasm,3630,INS,1.0,20.0,0.0056700914018734,0.0056700914018734,Biomarker,BeFree,INS,Insulin
+DOID:12236,primary biliary cirrhosis,3630,INS,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:12361,Graves' disease,3630,INS,1.0,12.0,0.0054356177903778,0.0054356177903778,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:12365,malaria,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:1319,brain cancer,3630,INS,3.0,5.0,0.0014175228504683,0.0009450152336455,Biomarker,BeFree,INS,Insulin
+DOID:13223,uterine fibroid,3630,INS,1.0,9.0,0.002551541130843,0.002551541130843,Biomarker,BeFree,INS,Insulin
+DOID:1324,lung cancer,3630,INS,4.0,22.0,0.0062371005420607,0.0031894264135537,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:14221,metabolic syndrome X,3630,INS,1.0,438.0,0.27,0.27,Biomarker,BeFree|CTD_human,INS,Insulin
+DOID:14330,Parkinson's disease,3630,INS,1.0,2.0,0.214839644584077,0.214839644584077,Biomarker|GeneticVariation,CTD_human|GAD|LHGDN,INS,Insulin
+DOID:1595,endogenous depression,3630,INS,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:1612,breast cancer,3630,INS,5.0,161.0,0.0476777987343347,0.0200761369411287,AlteredExpression|Biomarker|GeneticVariation,BeFree|GAD|LHGDN,INS,Insulin
+DOID:175,vascular cancer,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:1781,thyroid cancer,3630,INS,4.0,9.0,0.002551541130843,0.0012757705654215,AlteredExpression|Biomarker,BeFree,INS,Insulin
+DOID:1793,pancreatic cancer,3630,INS,5.0,66.0,0.0187113016261822,0.0056231966795742,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:1826,epilepsy syndrome,3630,INS,2.0,3.0,0.000850513710281,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:184,bone cancer,3630,INS,3.0,7.0,0.0019845319906556,0.0014175228504683,Biomarker,BeFree,INS,Insulin
+DOID:1909,melanoma,3630,INS,1.0,12.0,0.003402054841124,0.003402054841124,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:1936,atherosclerosis,3630,INS,2.0,166.0,0.0579240970426757,0.0291038008063846,AlteredExpression|Biomarker|GeneticVariation,BeFree|GAD|LHGDN,INS,Insulin
+DOID:1993,rectum cancer,3630,INS,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:2043,hepatitis B,3630,INS,1.0,5.0,0.0014175228504683,0.0014175228504683,Biomarker,BeFree,INS,Insulin
+DOID:2174,ocular cancer,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:219,colon cancer,3630,INS,3.0,21.0,0.005953595971967,0.0037800609345822,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:2355,anemia,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:2377,multiple sclerosis,3630,INS,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,INS,Insulin
+DOID:2394,ovarian cancer,3630,INS,2.0,9.0,0.0045851040800968,0.00444335179505,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:2531,hematologic cancer,3630,INS,11.0,10.0,0.0028350457009367,0.000850513710281,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:2596,larynx cancer,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:263,kidney cancer,3630,INS,4.0,10.0,0.0028350457009367,0.0010631421378512,Biomarker,BeFree,INS,Insulin
+DOID:2841,asthma,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:2986,IgA glomerulonephritis,3630,INS,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,INS,Insulin
+DOID:2994,germ cell cancer,3630,INS,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:2998,testicular cancer,3630,INS,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:3070,malignant glioma,3630,INS,5.0,9.0,0.002551541130843,0.0011340182803746,Biomarker,BeFree,INS,Insulin
+DOID:3121,gallbladder cancer,3630,INS,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,INS,Insulin
+DOID:3312,bipolar disorder,3630,INS,1.0,7.0,0.211701027420562,0.211701027420562,Biomarker,BeFree|CTD_human,INS,Insulin
+DOID:332,amyotrophic lateral sclerosis,3630,INS,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,INS,Insulin
+DOID:3393,coronary artery disease,3630,INS,6.0,88.0,0.0249484021682429,0.0092138985280442,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:3565,meningioma,3630,INS,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,INS,Insulin
+DOID:3571,liver cancer,3630,INS,4.0,41.0,0.0136572503230943,0.0045483308611482,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:363,uterine cancer,3630,INS,4.0,14.0,0.0039690639813113,0.0018427797056088,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:3953,adrenal gland cancer,3630,INS,2.0,4.0,0.0011340182803746,0.0007087614252341,Biomarker,BeFree,INS,Insulin
+DOID:4045,muscle cancer,3630,INS,1.0,5.0,0.0014175228504683,0.0014175228504683,Biomarker,BeFree,INS,Insulin
+DOID:418,systemic scleroderma,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:4362,cervical cancer,3630,INS,2.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,INS,Insulin
+DOID:4606,bile duct cancer,3630,INS,3.0,2.0,0.0023170675193475,0.0010558604098761,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:4989,pancreatitis,3630,INS,1.0,5.0,0.211134018280375,0.211134018280375,Biomarker,BeFree|CTD_human,INS,Insulin
+DOID:5041,esophageal cancer,3630,INS,4.0,3.0,0.000850513710281,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:594,panic disorder,3630,INS,1.0,1.0,0.21,0.21,Biomarker,CTD_human,INS,Insulin
+DOID:635,acquired immunodeficiency syndrome,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:7148,rheumatoid arthritis,3630,INS,1.0,7.0,0.0019845319906556,0.0019845319906556,Biomarker,BeFree,INS,Insulin
+DOID:784,chronic kidney failure,3630,INS,1.0,12.0,0.0074691807396317,0.0074691807396317,Biomarker|GeneticVariation,BeFree|GAD,INS,Insulin
+DOID:8577,ulcerative colitis,3630,INS,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,INS,Insulin
+DOID:8893,psoriasis,3630,INS,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,INS,Insulin
+DOID:9074,systemic lupus erythematosus,3630,INS,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker|GeneticVariation,BeFree,INS,Insulin
+DOID:9352,type 2 diabetes mellitus,3630,INS,3.0,2252.0,0.442612885323647,0.219144154338413,AlteredExpression|Biomarker|GeneticVariation|Therapeutic,BeFree|CTD_human|GAD|LHGDN|MGD,INS,Insulin
+DOID:9744,type 1 diabetes mellitus,3630,INS,1.0,850.0,0.440090308258917,0.440090308258917,Biomarker|GeneticVariation|Therapeutic,BeFree|CTD_human|GAD|LHGDN|MGD,INS,Insulin
+DOID:9970,obesity,3630,INS,2.0,1572.0,0.302438945270865,0.1553548043810897,Biomarker|GeneticVariation,BeFree|CTD_human|GAD,INS,Insulin
+DOID:0050156,idiopathic pulmonary fibrosis,3375,IAPP,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:10283,prostate cancer,3375,IAPP,2.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:10534,stomach cancer,3375,IAPP,2.0,4.0,0.0011340182803746,0.0009922659953278,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:10763,hypertension,3375,IAPP,2.0,2.0,0.002806081634823,0.0015447931024583,AlteredExpression|Biomarker,BeFree|LHGDN,IAPP,Islet amyloid polypeptide
+DOID:11054,urinary bladder cancer,3375,IAPP,4.0,3.0,0.000850513710281,0.0004961329976639,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:11714,gestational diabetes,3375,IAPP,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:11934,head and neck cancer,3375,IAPP,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:1324,lung cancer,3375,IAPP,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:14227,azoospermia,3375,IAPP,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:1612,breast cancer,3375,IAPP,4.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:1781,thyroid cancer,3375,IAPP,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:1793,pancreatic cancer,3375,IAPP,2.0,9.0,0.002551541130843,0.001701027420562,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:1826,epilepsy syndrome,3375,IAPP,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:1909,melanoma,3375,IAPP,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:219,colon cancer,3375,IAPP,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:2531,hematologic cancer,3375,IAPP,6.0,3.0,0.000850513710281,0.0004725076168227,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:3070,malignant glioma,3375,IAPP,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:3571,liver cancer,3375,IAPP,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:4045,muscle cancer,3375,IAPP,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:4362,cervical cancer,3375,IAPP,2.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:784,chronic kidney failure,3375,IAPP,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,IAPP,Islet amyloid polypeptide
+DOID:9352,type 2 diabetes mellitus,3375,IAPP,1.0,76.0,0.273812651716652,0.273812651716652,AlteredExpression|Biomarker|GeneticVariation,BeFree|CTD_human|GAD|LHGDN,IAPP,Islet amyloid polypeptide
+DOID:9744,type 1 diabetes mellitus,3375,IAPP,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:9970,obesity,3375,IAPP,1.0,9.0,0.002551541130843,0.002551541130843,Biomarker,BeFree,IAPP,Islet amyloid polypeptide
+DOID:10652,Alzheimer's disease,5122,PCSK1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:10763,hypertension,5122,PCSK1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:11054,urinary bladder cancer,5122,PCSK1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:11612,polycystic ovary syndrome,5122,PCSK1,1.0,2.0,0.0026005720894411,0.0026005720894411,Biomarker|GeneticVariation,BeFree|GAD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:14221,metabolic syndrome X,5122,PCSK1,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker|GeneticVariation,BeFree,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:1793,pancreatic cancer,5122,PCSK1,1.0,1.0,0.1,0.1,Biomarker,RGD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:2531,hematologic cancer,5122,PCSK1,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:3312,bipolar disorder,5122,PCSK1,1.0,0.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:3393,coronary artery disease,5122,PCSK1,3.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker|GeneticVariation,BeFree,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:7148,rheumatoid arthritis,5122,PCSK1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:9352,type 2 diabetes mellitus,5122,PCSK1,1.0,17.0,0.1167374508170219,0.1167374508170219,Biomarker|GeneticVariation,BeFree|GAD|RGD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:9744,type 1 diabetes mellitus,5122,PCSK1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:9970,obesity,5122,PCSK1,2.0,34.0,0.3393587447769379,0.1701046292436094,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|MGD,PCSK1,Proprotein convertase subtilisin/kexin type 1
+DOID:10652,Alzheimer's disease,5126,PCSK2,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:1781,thyroid cancer,5126,PCSK2,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:2531,hematologic cancer,5126,PCSK2,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:332,amyotrophic lateral sclerosis,5126,PCSK2,1.0,1.0,0.0002835045700936,0.0002835045700936,GeneticVariation,BeFree,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:3393,coronary artery disease,5126,PCSK2,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:9352,type 2 diabetes mellitus,5126,PCSK2,1.0,6.0,0.218085220838417,0.218085220838417,Biomarker|GeneticVariation,BeFree|CTD_human|GAD,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:9970,obesity,5126,PCSK2,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PCSK2,Proprotein convertase subtilisin/kexin type 2
+DOID:9352,type 2 diabetes mellitus,4825,NKX6-1,1.0,3.0,0.212600572089441,0.212600572089441,Biomarker|GeneticVariation,BeFree|CTD_human|GAD,NKX6-1,NK6 homeobox 1
+DOID:0050742,nicotine dependence,4760,NEUROD1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:0060073,lymphatic system cancer,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:10283,prostate cancer,4760,NEUROD1,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:10763,hypertension,4760,NEUROD1,2.0,4.0,0.0011340182803746,0.0009922659953278,Biomarker|GeneticVariation,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:11714,gestational diabetes,4760,NEUROD1,1.0,1.0,0.0026005720894411,0.0026005720894411,Biomarker|GeneticVariation,BeFree|GAD,NEUROD1,Neuronal differentiation 1
+DOID:1192,peripheral nervous system neoplasm,4760,NEUROD1,1.0,7.0,0.0019845319906556,0.0019845319906556,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:12361,Graves' disease,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:12930,dilated cardiomyopathy,4760,NEUROD1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1319,brain cancer,4760,NEUROD1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1324,lung cancer,4760,NEUROD1,4.0,3.0,0.000850513710281,0.0006378852827107,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:13378,Kawasaki disease,4760,NEUROD1,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1612,breast cancer,4760,NEUROD1,3.0,9.0,0.0033730907750103,0.0027308894888675,Biomarker|PostTranslationalModification,BeFree|LHGDN,NEUROD1,Neuronal differentiation 1
+DOID:1781,thyroid cancer,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1790,malignant mesothelioma,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1793,pancreatic cancer,4760,NEUROD1,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1826,epilepsy syndrome,4760,NEUROD1,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:1909,melanoma,4760,NEUROD1,1.0,5.0,0.0014175228504683,0.0014175228504683,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:219,colon cancer,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:2355,anemia,4760,NEUROD1,2.0,4.0,0.0011340182803746,0.0007087614252341,Biomarker|GeneticVariation,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:2377,multiple sclerosis,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:2394,ovarian cancer,4760,NEUROD1,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:2531,hematologic cancer,4760,NEUROD1,7.0,3.0,0.000850513710281,0.0005670091401873,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:263,kidney cancer,4760,NEUROD1,3.0,2.0,0.0005670091401873,0.0003780060934582,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:2841,asthma,4760,NEUROD1,2.0,49.0,0.0138917239345898,0.0072293665373885,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:3070,malignant glioma,4760,NEUROD1,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:3312,bipolar disorder,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:3393,coronary artery disease,4760,NEUROD1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:418,systemic scleroderma,4760,NEUROD1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:7148,rheumatoid arthritis,4760,NEUROD1,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:8893,psoriasis,4760,NEUROD1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:9352,type 2 diabetes mellitus,4760,NEUROD1,1.0,28.0,0.452303677091916,0.452303677091916,Biomarker|GeneticVariation,BeFree|CLINVAR|CTD_human|GAD|LHGDN,NEUROD1,Neuronal differentiation 1
+DOID:9744,type 1 diabetes mellitus,4760,NEUROD1,1.0,15.0,0.0336514471133117,0.0336514471133117,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,NEUROD1,Neuronal differentiation 1
+DOID:9970,obesity,4760,NEUROD1,2.0,9.0,0.002551541130843,0.0014175228504683,Biomarker|GeneticVariation,BeFree,NEUROD1,Neuronal differentiation 1
+DOID:10283,prostate cancer,5080,PAX6,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:10534,stomach cancer,5080,PAX6,3.0,2.0,0.21,0.0703780060934582,Biomarker,BeFree|CTD_human,PAX6,Paired box 6
+DOID:10763,hypertension,5080,PAX6,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PAX6,Paired box 6
+DOID:11054,urinary bladder cancer,5080,PAX6,3.0,3.0,0.0025225770647293,0.0014078681617637,Biomarker|PostTranslationalModification,BeFree|LHGDN,PAX6,Paired box 6
+DOID:12849,autistic disorder,5080,PAX6,1.0,5.0,0.3131675812296289,0.3131675812296289,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|RGD,PAX6,Paired box 6
+DOID:1319,brain cancer,5080,PAX6,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:1324,lung cancer,5080,PAX6,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:14221,metabolic syndrome X,5080,PAX6,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:1612,breast cancer,5080,PAX6,2.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,PAX6,Paired box 6
+DOID:1686,glaucoma,5080,PAX6,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:1793,pancreatic cancer,5080,PAX6,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:1826,epilepsy syndrome,5080,PAX6,1.0,2.0,0.0026005720894411,0.0026005720894411,Biomarker|GeneticVariation,BeFree|GAD,PAX6,Paired box 6
+DOID:1909,melanoma,5080,PAX6,1.0,1.0,0.21,0.21,Biomarker,CTD_human,PAX6,Paired box 6
+DOID:1936,atherosclerosis,5080,PAX6,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PAX6,Paired box 6
+DOID:2174,ocular cancer,5080,PAX6,1.0,6.0,0.001701027420562,0.001701027420562,Biomarker,BeFree,PAX6,Paired box 6
+DOID:2355,anemia,5080,PAX6,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:263,kidney cancer,5080,PAX6,1.0,32.0,0.0090721462429974,0.0090721462429974,Biomarker,BeFree,PAX6,Paired box 6
+DOID:3070,malignant glioma,5080,PAX6,3.0,5.0,0.003656595345104,0.001785874255222,AlteredExpression|Biomarker,BeFree|LHGDN,PAX6,Paired box 6
+DOID:5419,schizophrenia,5080,PAX6,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,PAX6,Paired box 6
+DOID:9296,cleft lip,5080,PAX6,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,PAX6,Paired box 6
+DOID:9352,type 2 diabetes mellitus,5080,PAX6,1.0,3.0,0.212600572089441,0.212600572089441,Biomarker|GeneticVariation,BeFree|CTD_human|GAD,PAX6,Paired box 6
+DOID:9835,refractive error,5080,PAX6,3.0,12.0,0.0149093974131498,0.0067720170458046,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,PAX6,Paired box 6
+DOID:9970,obesity,5080,PAX6,1.0,5.0,0.0014175228504683,0.0014175228504683,Biomarker,BeFree,PAX6,Paired box 6
+DOID:0050156,idiopathic pulmonary fibrosis,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:10283,prostate cancer,1649,DDIT3,2.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:10534,stomach cancer,1649,DDIT3,3.0,3.0,0.0025225770647293,0.0014078681617637,AlteredExpression|Biomarker,BeFree|LHGDN,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1115,sarcoma,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:11714,gestational diabetes,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1192,peripheral nervous system neoplasm,1649,DDIT3,1.0,5.0,0.003656595345104,0.003656595345104,AlteredExpression|Biomarker,BeFree|LHGDN,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:11934,head and neck cancer,1649,DDIT3,2.0,3.0,0.000850513710281,0.0005670091401873,Biomarker|GeneticVariation,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:13223,uterine fibroid,1649,DDIT3,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1324,lung cancer,1649,DDIT3,2.0,4.0,0.0011340182803746,0.000850513710281,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:14221,metabolic syndrome X,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1595,endogenous depression,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1612,breast cancer,1649,DDIT3,3.0,9.0,0.210283504570094,0.0717010274205621,Biomarker,BeFree|CTD_human,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1686,glaucoma,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1781,thyroid cancer,1649,DDIT3,2.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1793,pancreatic cancer,1649,DDIT3,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1826,epilepsy syndrome,1649,DDIT3,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:184,bone cancer,1649,DDIT3,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:1909,melanoma,1649,DDIT3,1.0,5.0,0.003656595345104,0.003656595345104,Biomarker,BeFree|LHGDN,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:2043,hepatitis B,1649,DDIT3,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:2174,ocular cancer,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:219,colon cancer,1649,DDIT3,2.0,7.0,0.0019845319906556,0.0019845319906556,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:2394,ovarian cancer,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:2531,hematologic cancer,1649,DDIT3,7.0,16.0,0.0045360731214987,0.0014538857796083,Biomarker|GeneticVariation,BeFree|LHGDN,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:3070,malignant glioma,1649,DDIT3,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:3083,chronic obstructive pulmonary disease,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:332,amyotrophic lateral sclerosis,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:3571,liver cancer,1649,DDIT3,3.0,7.0,0.0019845319906556,0.000850513710281,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:4362,cervical cancer,1649,DDIT3,2.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:9352,type 2 diabetes mellitus,1649,DDIT3,1.0,4.0,0.0034510857997221,0.0034510857997221,Biomarker|GeneticVariation,BeFree|GAD,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:9744,type 1 diabetes mellitus,1649,DDIT3,1.0,1.0,0.21,0.21,Biomarker,CTD_human,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:9970,obesity,1649,DDIT3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,DDIT3,DNA damage inducible transcript 3 (CHOP)
+DOID:0050156,idiopathic pulmonary fibrosis,468,ATF4,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ATF4,Activating transcription factor 4
+DOID:10534,stomach cancer,468,ATF4,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ATF4,Activating transcription factor 4
+DOID:10652,Alzheimer's disease,468,ATF4,1.0,2.0,0.002806081634823,0.002806081634823,AlteredExpression|Biomarker,BeFree|LHGDN,ATF4,Activating transcription factor 4
+DOID:1192,peripheral nervous system neoplasm,468,ATF4,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ATF4,Activating transcription factor 4
+DOID:1324,lung cancer,468,ATF4,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ATF4,Activating transcription factor 4
+DOID:1612,breast cancer,468,ATF4,3.0,2.0,0.21,0.0703780060934582,Biomarker,BeFree|CTD_human,ATF4,Activating transcription factor 4
+DOID:3083,chronic obstructive pulmonary disease,468,ATF4,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,ATF4,Activating transcription factor 4
+DOID:3312,bipolar disorder,468,ATF4,1.0,1.0,0.0051231491541705,0.0051231491541705,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,ATF4,Activating transcription factor 4
+DOID:3571,liver cancer,468,ATF4,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ATF4,Activating transcription factor 4
+DOID:11054,urinary bladder cancer,7494,XBP1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,XBP1,X-box binding protein 1
+DOID:12306,vitiligo,7494,XBP1,1.0,2.0,0.0049176396087887,0.0049176396087887,Biomarker|GeneticVariation,BeFree|GAD,XBP1,X-box binding protein 1
+DOID:1324,lung cancer,7494,XBP1,1.0,1.0,0.0002835045700936,0.0002835045700936,GeneticVariation,BeFree,XBP1,X-box binding protein 1
+DOID:14221,metabolic syndrome X,7494,XBP1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,XBP1,X-box binding protein 1
+DOID:1595,endogenous depression,7494,XBP1,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,XBP1,X-box binding protein 1
+DOID:1612,breast cancer,7494,XBP1,3.0,9.0,0.0078512357642816,0.0042236044852913,AlteredExpression|Biomarker,BeFree|LHGDN,XBP1,X-box binding protein 1
+DOID:1909,melanoma,7494,XBP1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,XBP1,X-box binding protein 1
+DOID:1936,atherosclerosis,7494,XBP1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker|GeneticVariation,BeFree,XBP1,X-box binding protein 1
+DOID:2394,ovarian cancer,7494,XBP1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,XBP1,X-box binding protein 1
+DOID:2531,hematologic cancer,7494,XBP1,6.0,13.0,0.006208136475947,0.001412695506116,AlteredExpression|Biomarker,BeFree|LHGDN,XBP1,X-box binding protein 1
+DOID:3070,malignant glioma,7494,XBP1,1.0,1.0,0.210283504570094,0.210283504570094,Biomarker,BeFree|CTD_human,XBP1,X-box binding protein 1
+DOID:3083,chronic obstructive pulmonary disease,7494,XBP1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,XBP1,X-box binding protein 1
+DOID:3312,bipolar disorder,7494,XBP1,1.0,14.0,0.0111257760847357,0.0111257760847357,AlteredExpression|Biomarker|GeneticVariation,BeFree|GAD|LHGDN,XBP1,X-box binding protein 1
+DOID:332,amyotrophic lateral sclerosis,7494,XBP1,1.0,6.0,0.001701027420562,0.001701027420562,Biomarker|GeneticVariation,BeFree,XBP1,X-box binding protein 1
+DOID:7148,rheumatoid arthritis,7494,XBP1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,XBP1,X-box binding protein 1
+DOID:8577,ulcerative colitis,7494,XBP1,1.0,2.0,0.002806081634823,0.002806081634823,Biomarker|GeneticVariation,BeFree|LHGDN,XBP1,X-box binding protein 1
+DOID:9352,type 2 diabetes mellitus,7494,XBP1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,XBP1,X-box binding protein 1
+DOID:9970,obesity,7494,XBP1,1.0,2.0,0.0028840766595348,0.0028840766595348,Biomarker|GeneticVariation,BeFree|GAD,XBP1,X-box binding protein 1
+DOID:10283,prostate cancer,3309,HSPA5,3.0,12.0,0.0075677311941879,0.0047906136254786,AlteredExpression|Biomarker,BeFree|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:10534,stomach cancer,3309,HSPA5,4.0,3.0,0.002806081634823,0.001268529548893,Biomarker|GeneticVariation,BeFree|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:10652,Alzheimer's disease,3309,HSPA5,1.0,1.0,0.0025225770647293,0.0025225770647293,GeneticVariation,LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:11054,urinary bladder cancer,3309,HSPA5,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:1192,peripheral nervous system neoplasm,3309,HSPA5,1.0,4.0,0.003656595345104,0.003656595345104,Biomarker,BeFree|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:11934,head and neck cancer,3309,HSPA5,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:1324,lung cancer,3309,HSPA5,3.0,6.0,0.001701027420562,0.0010395167570101,Biomarker|GeneticVariation,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:14221,metabolic syndrome X,3309,HSPA5,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:14330,Parkinson's disease,3309,HSPA5,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:1612,breast cancer,3309,HSPA5,4.0,11.0,0.0031185502710303,0.0016301512780386,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:1781,thyroid cancer,3309,HSPA5,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:1793,pancreatic cancer,3309,HSPA5,2.0,1.0,0.0025225770647293,0.0014030408174115,AlteredExpression|Biomarker,BeFree|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:184,bone cancer,3309,HSPA5,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:1909,melanoma,3309,HSPA5,1.0,5.0,0.0039400999151976,0.0039400999151976,Biomarker,BeFree|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:2043,hepatitis B,3309,HSPA5,1.0,6.0,0.0082127353590871,0.0082127353590871,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:219,colon cancer,3309,HSPA5,2.0,10.0,0.0028350457009367,0.0026932934158898,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:2394,ovarian cancer,3309,HSPA5,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:2531,hematologic cancer,3309,HSPA5,5.0,2.0,0.21,0.0423402054841123,Biomarker,BeFree|CTD_human,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:263,kidney cancer,3309,HSPA5,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:3070,malignant glioma,3309,HSPA5,4.0,7.0,0.0064626769799269,0.0020409261001222,AlteredExpression|Biomarker,BeFree|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:3312,bipolar disorder,3309,HSPA5,1.0,1.0,0.0051231491541705,0.0051231491541705,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:3393,coronary artery disease,3309,HSPA5,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:3571,liver cancer,3309,HSPA5,3.0,4.0,0.0031675812296285,0.0014338665033344,Biomarker|GeneticVariation,BeFree|GAD,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:363,uterine cancer,3309,HSPA5,2.0,4.0,0.0011340182803746,0.0009922659953278,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:4606,bile duct cancer,3309,HSPA5,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:5041,esophageal cancer,3309,HSPA5,1.0,1.0,0.21,0.21,Biomarker,CTD_human,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:7147,ankylosing spondylitis,3309,HSPA5,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:9352,type 2 diabetes mellitus,3309,HSPA5,1.0,3.0,0.000850513710281,0.000850513710281,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:9744,type 1 diabetes mellitus,3309,HSPA5,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:9970,obesity,3309,HSPA5,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,HSPA5,Heat shock protein family A member 5 (BiP)
+DOID:11934,head and neck cancer,2081,ERN1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:1612,breast cancer,2081,ERN1,2.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:1826,epilepsy syndrome,2081,ERN1,1.0,1.0,0.21,0.21,Biomarker,CTD_human,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:1909,melanoma,2081,ERN1,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker,BeFree,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:2043,hepatitis B,2081,ERN1,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:2531,hematologic cancer,2081,ERN1,3.0,3.0,0.000850513710281,0.0004725076168227,Biomarker,BeFree,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:3070,malignant glioma,2081,ERN1,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:784,chronic kidney failure,2081,ERN1,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:9970,obesity,2081,ERN1,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ERN1,Endoplasmic reticulum to nucleus signaling 1
+DOID:10534,stomach cancer,220,ALDH1A3,1.0,1.0,0.21,0.21,Biomarker,CTD_human,ALDH1A3,Aldehyde dehydrogenase 1 family member A3
+DOID:11054,urinary bladder cancer,220,ALDH1A3,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ALDH1A3,Aldehyde dehydrogenase 1 family member A3
+DOID:1324,lung cancer,220,ALDH1A3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ALDH1A3,Aldehyde dehydrogenase 1 family member A3
+DOID:1612,breast cancer,220,ALDH1A3,3.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ALDH1A3,Aldehyde dehydrogenase 1 family member A3
+DOID:1909,melanoma,220,ALDH1A3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ALDH1A3,Aldehyde dehydrogenase 1 family member A3
+DOID:3070,malignant glioma,220,ALDH1A3,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ALDH1A3,Aldehyde dehydrogenase 1 family member A3
+DOID:1024,leprosy,6662,SOX9,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:10283,prostate cancer,6662,SOX9,3.0,5.0,0.002806081634823,0.0018803757785865,AlteredExpression|Biomarker,BeFree|LHGDN,SOX9,SRY-box transcription factor 9
+DOID:10534,stomach cancer,6662,SOX9,2.0,3.0,0.000850513710281,0.0005670091401873,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:11054,urinary bladder cancer,6662,SOX9,3.0,2.0,0.0025225770647293,0.0012188651150346,Biomarker|PostTranslationalModification,BeFree|LHGDN,SOX9,SRY-box transcription factor 9
+DOID:1115,sarcoma,6662,SOX9,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:1192,peripheral nervous system neoplasm,6662,SOX9,4.0,3.0,0.000850513710281,0.0005670091401873,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:1319,brain cancer,6662,SOX9,4.0,2.0,0.0005670091401873,0.000354380712617,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:1324,lung cancer,6662,SOX9,3.0,2.0,0.0005670091401873,0.0003780060934582,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:1612,breast cancer,6662,SOX9,3.0,5.0,0.0053286586995523,0.002721234800163,AlteredExpression|Biomarker,BeFree|LHGDN,SOX9,SRY-box transcription factor 9
+DOID:1793,pancreatic cancer,6662,SOX9,3.0,2.0,0.0005670091401873,0.0003780060934582,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:1909,melanoma,6662,SOX9,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:219,colon cancer,6662,SOX9,2.0,4.0,0.0011340182803746,0.0009922659953278,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:2394,ovarian cancer,6662,SOX9,2.0,3.0,0.0028840766595348,0.0015837906148142,Biomarker|GeneticVariation,BeFree|GAD,SOX9,SRY-box transcription factor 9
+DOID:2531,hematologic cancer,6662,SOX9,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:2841,asthma,6662,SOX9,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,SOX9,SRY-box transcription factor 9
+DOID:2994,germ cell cancer,6662,SOX9,1.0,2.0,0.0005670091401873,0.0005670091401873,Biomarker|GeneticVariation,BeFree,SOX9,SRY-box transcription factor 9
+DOID:3070,malignant glioma,6662,SOX9,3.0,2.0,0.0005670091401873,0.0003780060934582,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:363,uterine cancer,6662,SOX9,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:4159,skin cancer,6662,SOX9,1.0,1.0,0.0025225770647293,0.0025225770647293,AlteredExpression,LHGDN,SOX9,SRY-box transcription factor 9
+DOID:5041,esophageal cancer,6662,SOX9,3.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:8893,psoriasis,6662,SOX9,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,SOX9,SRY-box transcription factor 9
+DOID:10652,Alzheimer's disease,6833,ABCC8,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,ABCC8,ATP binding cassette subfamily C member 8
+DOID:11714,gestational diabetes,6833,ABCC8,1.0,4.0,0.0031675812296285,0.0031675812296285,Biomarker|GeneticVariation,BeFree|GAD,ABCC8,ATP binding cassette subfamily C member 8
+DOID:1324,lung cancer,6833,ABCC8,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:13378,Kawasaki disease,6833,ABCC8,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:14221,metabolic syndrome X,6833,ABCC8,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,ABCC8,ATP binding cassette subfamily C member 8
+DOID:1612,breast cancer,6833,ABCC8,2.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:1793,pancreatic cancer,6833,ABCC8,2.0,2.0,0.0005670091401873,0.0004252568551405,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:1826,epilepsy syndrome,6833,ABCC8,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:2531,hematologic cancer,6833,ABCC8,2.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:3571,liver cancer,6833,ABCC8,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:7148,rheumatoid arthritis,6833,ABCC8,1.0,1.0,0.0002835045700936,0.0002835045700936,Biomarker,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:784,chronic kidney failure,6833,ABCC8,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,ABCC8,ATP binding cassette subfamily C member 8
+DOID:9352,type 2 diabetes mellitus,6833,ABCC8,1.0,55.0,0.481740416893566,0.481740416893566,Biomarker|GeneticVariation,BeFree|CLINVAR|CTD_human|GAD|LHGDN,ABCC8,ATP binding cassette subfamily C member 8
+DOID:9744,type 1 diabetes mellitus,6833,ABCC8,1.0,5.0,0.213167581229629,0.213167581229629,Biomarker|GeneticVariation,BeFree|CTD_human|GAD,ABCC8,ATP binding cassette subfamily C member 8
+DOID:9970,obesity,6833,ABCC8,1.0,4.0,0.0011340182803746,0.0011340182803746,Biomarker|GeneticVariation,BeFree,ABCC8,ATP binding cassette subfamily C member 8
+DOID:10608,celiac disease,3767,KCNJ11,1.0,1.0,0.0002835045700936,0.0002835045700936,GeneticVariation,BeFree,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:10652,Alzheimer's disease,3767,KCNJ11,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:10763,hypertension,3767,KCNJ11,1.0,3.0,0.1026005720894409,0.1026005720894409,Biomarker|GeneticVariation,BeFree|GAD|RGD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:11612,polycystic ovary syndrome,3767,KCNJ11,1.0,2.0,0.0051231491541705,0.0051231491541705,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:11714,gestational diabetes,3767,KCNJ11,1.0,7.0,0.0090632490693681,0.0090632490693681,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:14221,metabolic syndrome X,3767,KCNJ11,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:1826,epilepsy syndrome,3767,KCNJ11,3.0,9.0,0.0098357677549373,0.0043084513199513,Biomarker|GeneticVariation,BeFree|LHGDN,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:1936,atherosclerosis,3767,KCNJ11,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:3393,coronary artery disease,3767,KCNJ11,5.0,2.0,0.007440216673518,0.0023327642317618,Biomarker|GeneticVariation,BeFree|GAD|LHGDN,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:784,chronic kidney failure,3767,KCNJ11,1.0,1.0,0.0023170675193475,0.0023170675193475,GeneticVariation,GAD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:9352,type 2 diabetes mellitus,3767,KCNJ11,2.0,133.0,0.294381393028056,0.1485937373314395,Biomarker|GeneticVariation,BeFree|CTD_human|GAD|LHGDN,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:9744,type 1 diabetes mellitus,3767,KCNJ11,1.0,13.0,0.223569869587393,0.223569869587393,Biomarker|GeneticVariation,BeFree|CTD_human|GAD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11
+DOID:9970,obesity,3767,KCNJ11,1.0,8.0,0.0104022883577647,0.0104022883577647,Biomarker|GeneticVariation,BeFree|GAD,KCNJ11,Potassium inwardly rectifying channel subfamily J member 11

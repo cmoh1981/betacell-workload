@@ -1,0 +1,7 @@
+gene,uniprot,gene_id,mr_or,effect,therapeutic_action,rationale
+PDX1,P52945,3651,0.66,protective,activate/increase,MR shows higher PDX1 expression reduces T2D risk
+SLC2A2,P11168,6514,0.89,protective,activate/increase,GLUT2 enables glucose sensing; reduced in T2D
+MAFA,Q8NHW3,389692,1.14,risk,modulate,Transcription factor; complex role in β-cell function
+GCK,P35557,2645,,key_metabolic,activate,Glucokinase activators (GKAs) are established T2D drug class
+HSPA5,P11021,3309,,stress_marker,support/chaperone,BiP/GRP78 - ER chaperone; chemical chaperones may help
+DDIT3,P35638,1649,,stress_marker,inhibit,CHOP - pro-apoptotic; inhibition may protect β-cells

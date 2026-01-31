@@ -1,0 +1,51 @@
+reaction_id,reaction_name,subsystem,flux_min,flux_max,flux_range
+MAR07745,D-glucose 1-epimerase,Glycolysis / Gluconeogenesis,0.0,0.0,0.0
+MAR08652,,Glycolysis / Gluconeogenesis,0.0,0.0,0.0
+MAR04310,ATP:D-fructose 1-phosphotransferase,Fructose and mannose metabolism,0.0,0.0,0.0
+MAR04317,,Fructose and mannose metabolism,0.0,0.0,0.0
+MAR04318,,Fructose and mannose metabolism,0.0,0.0,0.0
+MAR04320,,Fructose and mannose metabolism,0.0,0.0,0.0
+MAR04356,D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase,Fructose and mannose metabolism,0.0,0.0,0.0
+MAR04403,L-fucose aldose-ketose-isomerase,Fructose and mannose metabolism,0.0,0.0,0.0
+MAR04594,D-xylose:NADP+ 1-oxidoreductase,Pentose and glucuronate interconversions,0.0,0.0,0.0
+MAR00718,2-Hydroxyglutarate:(acceptor) 2-oxidoreductase,Butanoate metabolism,0.0,0.0,0.0
+MAR00719,,Butanoate metabolism,0.0,0.0,0.0
+MAR09799,ATP:sedoheptulose 7-phosphate,Pentose phosphate pathway,0.0,0.0,0.0
+MAR09800,ATP:sedoheptulose 1-phosphotransferase,Pentose phosphate pathway,0.0,0.0,0.0
+MAR06601,Allantoate amidinohydrolase,Purine metabolism,0.0,0.0,0.0
+MAR06609,(S)-allantoin amidohydrolase,Purine metabolism,0.0,0.0,0.0
+MAR05415,2'-deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase,Pyrimidine metabolism,0.0,0.0,0.0
+MAR05416,2'-deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase,Pyrimidine metabolism,0.0,0.0,0.0
+MAR05417,NADPH:oxidized-thioredoxin oxidoreductase,Pyrimidine metabolism,0.0,0.0,0.0
+MAR07744,uracil hydro-lyase (adding D-ribose 5-phosphate,Pyrimidine metabolism,0.0,0.0,0.0
+MAR07894,ATP:dIDP phosphotransferase,Nucleotide metabolism,0.0,0.0,0.0
+MAR08493,2'-deoxycytidine 5'-monophosphate phosphohydrolase,Nucleotide metabolism,0.0,0.0,0.0
+MAR08494,2'-deoxyadenosine 5'-monophosphate phosphohydrolase,Nucleotide metabolism,0.0,0.0,0.0
+MAR08495,2'-deoxyguanosine 5'-monophosphate phosphohydrolase,Nucleotide metabolism,0.0,0.0,0.0
+MAR06968,,"Alanine, aspartate and glutamate metabolism",0.0,0.0,0.0
+MAR06971,,"Alanine, aspartate and glutamate metabolism",0.0,0.0,0.0
+MAR06972,,"Alanine, aspartate and glutamate metabolism",0.0,0.0,0.0
+MAR04605,4-Aminobutyraldehyde:NAD+ oxidoreductase,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06929,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06930,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06931,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06933,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06934,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06936,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06939,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06941,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06943,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06944,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06946,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06947,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06949,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06950,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06952,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06953,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06954,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06955,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06956,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06957,,Arginine and proline metabolism,0.0,0.0,0.0
+MAR06958,N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming),Arginine and proline metabolism,0.0,0.0,0.0
+MAR06959,N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming),Arginine and proline metabolism,0.0,0.0,0.0
+MAR06960,,Arginine and proline metabolism,0.0,0.0,0.0

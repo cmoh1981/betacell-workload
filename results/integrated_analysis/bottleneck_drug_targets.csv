@@ -1,0 +1,44 @@
+reaction_id,reaction_name,subsystem,pathway_match,drug_targets,drug_classes,rationale
+MAR07745,D-glucose 1-epimerase,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,"GCK, PFKFB2, PKM, HK2","glucokinase activator, GCK, glucose",Restore glucose sensing and metabolism
+MAR08652,,Glycolysis / Gluconeogenesis,Glycolysis / Gluconeogenesis,"GCK, PFKFB2, PKM, HK2","glucokinase activator, GCK, glucose",Restore glucose sensing and metabolism
+MAR04310,ATP:D-fructose 1-phosphotransferase,Fructose and mannose metabolism,Fructose and mannose metabolism,"ALDOB, KHK","fructose, metabolism",Alternative fuel utilization
+MAR04317,,Fructose and mannose metabolism,Fructose and mannose metabolism,"ALDOB, KHK","fructose, metabolism",Alternative fuel utilization
+MAR04318,,Fructose and mannose metabolism,Fructose and mannose metabolism,"ALDOB, KHK","fructose, metabolism",Alternative fuel utilization
+MAR04320,,Fructose and mannose metabolism,Fructose and mannose metabolism,"ALDOB, KHK","fructose, metabolism",Alternative fuel utilization
+MAR04356,D-fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase,Fructose and mannose metabolism,Fructose and mannose metabolism,"ALDOB, KHK","fructose, metabolism",Alternative fuel utilization
+MAR04403,L-fucose aldose-ketose-isomerase,Fructose and mannose metabolism,Fructose and mannose metabolism,"ALDOB, KHK","fructose, metabolism",Alternative fuel utilization
+MAR09799,ATP:sedoheptulose 7-phosphate,Pentose phosphate pathway,Pentose phosphate pathway,"G6PD, PGLS, TKT","antioxidant, NADPH",Provide NADPH for redox balance
+MAR09800,ATP:sedoheptulose 1-phosphotransferase,Pentose phosphate pathway,Pentose phosphate pathway,"G6PD, PGLS, TKT","antioxidant, NADPH",Provide NADPH for redox balance
+MAR06601,Allantoate amidinohydrolase,Purine metabolism,Purine metabolism,"HPRT1, IMPDH1, ADSL","purine, nucleotide",Nucleotide synthesis for cell function
+MAR06609,(S)-allantoin amidohydrolase,Purine metabolism,Purine metabolism,"HPRT1, IMPDH1, ADSL","purine, nucleotide",Nucleotide synthesis for cell function
+MAR05415,2'-deoxyadenosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase,Pyrimidine metabolism,Pyrimidine metabolism,"DHODH, CAD, UMPS","pyrimidine, nucleotide",DNA/RNA synthesis support
+MAR05416,2'-deoxyguanosine 5'-diphosphate:oxidized-thioredoxin 2'-oxidoreductase,Pyrimidine metabolism,Pyrimidine metabolism,"DHODH, CAD, UMPS","pyrimidine, nucleotide",DNA/RNA synthesis support
+MAR05417,NADPH:oxidized-thioredoxin oxidoreductase,Pyrimidine metabolism,Pyrimidine metabolism,"DHODH, CAD, UMPS","pyrimidine, nucleotide",DNA/RNA synthesis support
+MAR07744,uracil hydro-lyase (adding D-ribose 5-phosphate,Pyrimidine metabolism,Pyrimidine metabolism,"DHODH, CAD, UMPS","pyrimidine, nucleotide",DNA/RNA synthesis support
+MAR06968,,"Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism","GOT1, GOT2, GLS, GLUD1","glutamate, amino acid, alanine",Amino acid-stimulated insulin secretion
+MAR06971,,"Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism","GOT1, GOT2, GLS, GLUD1","glutamate, amino acid, alanine",Amino acid-stimulated insulin secretion
+MAR06972,,"Alanine, aspartate and glutamate metabolism","Alanine, aspartate and glutamate metabolism","GOT1, GOT2, GLS, GLUD1","glutamate, amino acid, alanine",Amino acid-stimulated insulin secretion
+MAR04605,4-Aminobutyraldehyde:NAD+ oxidoreductase,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06929,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06930,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06931,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06933,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06934,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06936,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06939,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06941,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06943,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06944,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06946,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06947,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06949,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06950,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06952,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06953,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06954,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06955,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06956,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06957,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06958,N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming),Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06959,N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming),Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation
+MAR06960,,Arginine and proline metabolism,Arginine and proline metabolism,"ARG1, NOS1, ODC1","nitric oxide, polyamine",Signaling and cell proliferation

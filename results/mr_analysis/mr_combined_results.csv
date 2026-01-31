@@ -1,0 +1,5 @@
+method,beta,se,pval,or,or_ci_lower,or_ci_upper,n_snp,q_stat,q_pval,intercept,intercept_se,intercept_pval,i_squared
+IVW,,0.0,,,,,641,,,,,,
+MR-Egger,,,,,,,641,,,,,,0.0
+Weighted Median,0.0,1.1102230246251565e-16,1.0,1.0,0.9999999999999998,1.0000000000000002,641,,,,,,
+Simple Median,0.0,0.0,,1.0,1.0,1.0,641,,,,,,

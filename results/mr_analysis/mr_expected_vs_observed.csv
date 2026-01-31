@@ -1,0 +1,6 @@
+gene,expected_or,expected_effect,observed_or_ivw,ivw_pvalue,evidence
+PDX1,0.66,protective,0.8571343638541637,7.547146800849947e-230,"Gaulton et al. 2015, Flannick et al. 2019"
+SLC2A2,0.89,protective,0.8339847872801521,2.0064944355718102e-190,Mahajan et al. 2018
+MAFA,1.14,risk,1.1346423521746665,3.949139541890881e-41,Beta-cell stress response
+GCK,,protective,0.8719928983379609,1.7544392479716058e-66,"MODY2, glucose sensing"
+INS,,complex,1.011564945983292,0.28951929761753326,Insulin gene variants

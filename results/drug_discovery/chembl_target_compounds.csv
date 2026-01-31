@@ -1,0 +1,11 @@
+target,compound,chembl_id,action,status,ic50_nm,ec50_nm,notes
+GCK,Dorzagliatin,CHEMBL3545252,activator,Approved (China),,30.0,"Dual-acting GKA, approved for T2D"
+GCK,Piragliatin,CHEMBL517712,activator,Phase II (discontinued),,50.0,"GKA, hypoglycemia concerns"
+GCK,MK-0941,CHEMBL2105725,activator,Phase II (discontinued),,10.0,GKA from Merck
+HSPA5,4-PBA,CHEMBL558,chemical_chaperone,Approved (urea cycle),,,"4-phenylbutyrate, reduces ER stress"
+HSPA5,TUDCA,CHEMBL1236055,chemical_chaperone,Approved (liver),,,"Tauroursodeoxycholic acid, ER stress reducer"
+HSPA5,Azoramide,CHEMBL3614509,ER_proteostasis,Research,,500.0,Enhances ER protein folding
+DDIT3,Salubrinal,CHEMBL96661,indirect_inhibitor,Research tool,,15000.0,"eIF2α phosphatase inhibitor, blocks CHOP induction"
+PDX1,BRD7552,,expression_inducer,Research,,,Small molecule that increases PDX1 expression
+ABCC8,Glibenclamide,CHEMBL466,inhibitor,Approved,3.0,,"Sulfonylurea, closes KATP channels"
+ABCC8,Diazoxide,CHEMBL1438,opener,Approved,,10000.0,"KATP opener, may reduce β-cell workload"

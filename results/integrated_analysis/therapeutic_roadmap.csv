@@ -1,0 +1,15 @@
+tier,target,approach,candidate_drugs,evidence_level,metabolic_rationale,priority
+1,GCK,"Glucokinase activators (e.g., Dorzagliatin)","Dorzagliatin, glucokinase activator",MR-validated,"Glucose sensor, rate-limiting glycolysis",High
+1,PDX1,Enhance PDX1 expression/activity,"HDAC inhibitor, epigenetic modulator",MR-validated,Master regulator of beta-cell identity and glucose metabolism,High
+1,SLC2A2,Enhance glucose uptake capacity,glucose transporter modulator,MR-validated,"Glucose transporter, glucose sensing",High
+3,Unknown,Established T2D therapy,metformin,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,glipizide,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,glimepiride,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,pioglitazone,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,rosiglitazone,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,sitagliptin,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,tolbutamide,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,repaglinide,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,nateglinide,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,acarbose,Clinical,Proven efficacy in T2D,Benchmark
+3,Unknown,Established T2D therapy,miglitol,Clinical,Proven efficacy in T2D,Benchmark

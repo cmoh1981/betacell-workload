@@ -1,0 +1,5 @@
+component,status,location,notes
+Human Protein Atlas,Missing,C:\Users\ohbry\Aging and Metabolism Dropbox\Oh Chang-Myung\macbook\workload\data\public_databases\human_protein_atlas,Pancreas proteomics
+GTEx eQTLs,Missing,C:\Users\ohbry\Aging and Metabolism Dropbox\Oh Chang-Myung\macbook\workload\data\public_databases\gtex,Pancreas eQTL data
+DIAGRAM GWAS,Missing,C:\Users\ohbry\Aging and Metabolism Dropbox\Oh Chang-Myung\macbook\workload\data\public_databases\diagram,T2D GWAS summary stats
+HMDB Reference,Available,C:\Users\ohbry\Aging and Metabolism Dropbox\Oh Chang-Myung\macbook\workload\data\public_databases\hmdb,Metabolomics reference

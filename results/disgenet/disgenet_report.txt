@@ -1,0 +1,49 @@
+======================================================================
+DISGENET INTEGRATION REPORT
+Beta-Cell Workload Analysis Pipeline
+======================================================================
+
+--------------------------------------------------
+1. ANALYSIS SUMMARY
+--------------------------------------------------
+  Workload genes queried: 21
+  Total gene-disease associations: 364
+  T2D-related genes found: 5500
+
+--------------------------------------------------
+2. MR TARGET VALIDATION
+--------------------------------------------------
+  Validated targets: 5/5
+    PDX1: [VALIDATED] (DisGeNET score: 0.344)
+    SLC2A2: [VALIDATED] (DisGeNET score: 0.558)
+    MAFA: [VALIDATED] (DisGeNET score: 0.101)
+    GCK: [VALIDATED] (DisGeNET score: 0.523)
+    INS: [VALIDATED] (DisGeNET score: 0.443)
+
+--------------------------------------------------
+3. NOVEL THERAPEUTIC TARGETS
+--------------------------------------------------
+  Novel T2D genes identified: 50
+    IRS1: score=0.907
+    HNF4A: score=0.725
+    AKT2: score=0.721
+    HNF1B: score=0.692
+    TCF7L2: score=0.648
+    MAPK8IP1: score=0.620
+    CAPN10: score=0.616
+    IL6: score=0.593
+    INSR: score=0.590
+    SLC2A4: score=0.551
+
+--------------------------------------------------
+4. INTEGRATED EVIDENCE
+--------------------------------------------------
+  Evidence sources integrated:
+    [x] Mendelian Randomization (causal inference)
+    [x] GEM Metabolic Modeling (metabolic context)
+    [x] DisGeNET (gene-disease associations)
+    [x] LINCS Connectivity (drug candidates)
+
+======================================================================
+END OF REPORT
+======================================================================

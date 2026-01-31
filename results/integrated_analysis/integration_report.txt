@@ -1,0 +1,48 @@
+======================================================================
+GEM-DRUG DISCOVERY INTEGRATION REPORT
+Beta-Cell Workload Analysis Pipeline
+======================================================================
+
+--------------------------------------------------
+1. MENDELIAN RANDOMIZATION RESULTS
+--------------------------------------------------
+  PDX1: OR=0.857 (protective)
+    Expected: protective
+  SLC2A2: OR=0.834 (protective)
+    Expected: protective
+  MAFA: OR=1.135 (risk)
+    Expected: risk
+  GCK: OR=0.872 (protective)
+    Expected: protective
+  INS: OR=1.012 (risk)
+    Expected: complex
+
+--------------------------------------------------
+2. METABOLIC BOTTLENECKS (GEM Analysis)
+--------------------------------------------------
+  Arginine and proline metabolism: 24 bottleneck reactions
+  Fructose and mannose metabolism: 6 bottleneck reactions
+  Pyrimidine metabolism: 4 bottleneck reactions
+  Nucleotide metabolism: 4 bottleneck reactions
+  Alanine, aspartate and glutamate metabolism: 3 bottleneck reactions
+
+--------------------------------------------------
+3. DRUG CANDIDATES (LINCS Connectivity)
+--------------------------------------------------
+  Total candidates: 24
+    Known T2D Drug: 11
+    LINCS Top Hit: 13
+
+--------------------------------------------------
+4. INTEGRATION SUMMARY
+--------------------------------------------------
+  Pipeline Components Integrated:
+    [x] CWI Workload Scores (269 cells)
+    [x] Multi-omics DIABLO (22 signature features)
+    [x] Human-GEM Metabolic Model (12,971 reactions)
+    [x] Mendelian Randomization (5 genes)
+    [x] LINCS Connectivity (473,647 signatures)
+
+======================================================================
+END OF REPORT
+======================================================================

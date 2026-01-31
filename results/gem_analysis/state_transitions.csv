@@ -1,0 +1,6 @@
+state,growth_rate,glucose_uptake,insulin_demand,upr_activity,flux_glucose_sensing,flux_glycolysis,flux_tca_cycle,flux_oxidative_phosphorylation,flux_insulin_synthesis,flux_upr_metabolism
+S1_Resting,124.86814837744568,5.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+S2_Active,124.86814837744568,15.0,0.8,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+S3_Stressed,124.86814837744568,18.0,1.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+S4_Exhausted,124.86814837744568,12.0,0.6,0.8,0.0,0.0,0.0,0.0,0.0,0.0
+S5_Failing,124.86814837744568,8.0,0.3,1.0,0.0,0.0,0.0,0.0,0.0,0.0

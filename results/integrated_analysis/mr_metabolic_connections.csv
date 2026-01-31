@@ -1,0 +1,5 @@
+gene,mr_or,mr_effect,metabolic_role,affected_pathways,drug_strategy
+PDX1,0.66,protective,Master regulator of beta-cell identity and glucose metabolism,"Glycolysis / Gluconeogenesis, Oxidative phosphorylation",Enhance PDX1 expression/activity
+SLC2A2,0.89,protective,"Glucose transporter, glucose sensing",Glycolysis / Gluconeogenesis,Enhance glucose uptake capacity
+MAFA,1.14,risk,Beta-cell maturation factor,"TCA cycle, Oxidative phosphorylation",Modulate MAFA in context of stress
+GCK,0.87,protective,"Glucose sensor, rate-limiting glycolysis",Glycolysis / Gluconeogenesis,"Glucokinase activators (e.g., Dorzagliatin)"
