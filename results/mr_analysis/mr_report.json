@@ -1,0 +1,79 @@
+{
+  "analysis_type": "Two-sample Mendelian Randomization",
+  "exposure": "Workload gene expression (pancreas eQTL)",
+  "outcome": "Type 2 Diabetes (DIAGRAM GWAS)",
+  "n_genes": 15,
+  "n_instruments": 646,
+  "combined_results": [
+    {
+      "method": "IVW",
+      "beta": NaN,
+      "se": 0.0,
+      "pval": NaN,
+      "or": NaN,
+      "or_ci_lower": NaN,
+      "or_ci_upper": NaN,
+      "n_snp": 641,
+      "q_stat": NaN,
+      "q_pval": NaN,
+      "intercept": NaN,
+      "intercept_se": NaN,
+      "intercept_pval": NaN,
+      "i_squared": NaN
+    },
+    {
+      "method": "MR-Egger",
+      "beta": NaN,
+      "se": NaN,
+      "pval": NaN,
+      "or": NaN,
+      "or_ci_lower": NaN,
+      "or_ci_upper": NaN,
+      "n_snp": 641,
+      "q_stat": NaN,
+      "q_pval": NaN,
+      "intercept": NaN,
+      "intercept_se": NaN,
+      "intercept_pval": NaN,
+      "i_squared": 0.0
+    },
+    {
+      "method": "Weighted Median",
+      "beta": 0.0,
+      "se": 1.1102230246251565e-16,
+      "pval": 1.0,
+      "or": 1.0,
+      "or_ci_lower": 0.9999999999999998,
+      "or_ci_upper": 1.0000000000000002,
+      "n_snp": 641,
+      "q_stat": NaN,
+      "q_pval": NaN,
+      "intercept": NaN,
+      "intercept_se": NaN,
+      "intercept_pval": NaN,
+      "i_squared": NaN
+    },
+    {
+      "method": "Simple Median",
+      "beta": 0.0,
+      "se": 0.0,
+      "pval": NaN,
+      "or": 1.0,
+      "or_ci_lower": 1.0,
+      "or_ci_upper": 1.0,
+      "n_snp": 641,
+      "q_stat": NaN,
+      "q_pval": NaN,
+      "intercept": NaN,
+      "intercept_se": NaN,
+      "intercept_pval": NaN,
+      "i_squared": NaN
+    }
+  ],
+  "significant_genes": [
+    "PDX1",
+    "MAFA",
+    "SLC2A2"
+  ],
+  "significant_modules": []
+}

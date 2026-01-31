@@ -1,0 +1,42 @@
+{
+  "cwi_correlation": -0.8324132322455133,
+  "cwi_mse": 12.652031898498535,
+  "condition_auroc": 0.7156862745098039,
+  "condition_accuracy": 0.6226415094339622,
+  "state_accuracy": 0.3018867924528302,
+  "timestamp": "2026-01-31T13:34:43.036986",
+  "config": {
+    "pretrain": {
+      "epochs": 100,
+      "batch_size": 32,
+      "learning_rate": 0.001,
+      "early_stopping": 15
+    },
+    "finetune": {
+      "epochs": 50,
+      "batch_size": 32,
+      "learning_rate": 0.0001,
+      "early_stopping": 10
+    },
+    "latent_dim": 32,
+    "workload_dims": 4,
+    "encoder_dims": [
+      256,
+      128,
+      64
+    ],
+    "decoder_dims": [
+      64,
+      128,
+      256
+    ],
+    "dropout": 0.2,
+    "n_states": 5,
+    "lambda_recon": 1.0,
+    "lambda_kl": 0.1,
+    "lambda_condition": 1.0,
+    "lambda_state": 0.5,
+    "lambda_literature": 0.3,
+    "lambda_cwi": 0.5
+  }
+}

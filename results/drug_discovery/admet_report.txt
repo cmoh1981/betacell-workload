@@ -1,0 +1,100 @@
+======================================================================
+ADMET ANALYSIS REPORT - WORKLOAD MODULATOR CANDIDATES
+======================================================================
+
+SUMMARY
+----------------------------------------
+Total compounds analyzed: 11
+Good drug-likeness: 11 (100.0%)
+Lipinski compliant: 11 (100.0%)
+
+COMPOUND DETAILS
+----------------------------------------
+
+Piragliatin
+  Drug-likeness: Good
+  QED Score: 0.792
+  MW: 339.4, LogP: 3.10
+  Absorption: Good
+  BBB: Likely
+
+4-PBA
+  Drug-likeness: Good
+  QED Score: 0.769
+  MW: 178.2, LogP: 2.73
+  Absorption: Good
+  BBB: Likely
+
+Diazoxide
+  Drug-likeness: Good
+  QED Score: 0.737
+  MW: 230.7, LogP: 1.68
+  Absorption: Good
+  BBB: Likely
+
+Glipizide
+  Drug-likeness: Good
+  QED Score: 0.607
+  MW: 444.6, LogP: 2.68
+  Absorption: Good
+  BBB: Unlikely
+
+Dapagliflozin
+  Drug-likeness: Good
+  QED Score: 0.582
+  MW: 408.9, LogP: 1.84
+  Absorption: Good
+  BBB: Unlikely
+
+Dorzagliatin
+  Drug-likeness: Good
+  QED Score: 0.463
+  MW: 431.5, LogP: 4.97
+  Absorption: Good
+  BBB: Unlikely
+
+Empagliflozin
+  Drug-likeness: Good
+  QED Score: 0.454
+  MW: 456.9, LogP: 3.24
+  Absorption: Good
+  BBB: Unlikely
+
+TUDCA
+  Drug-likeness: Good
+  QED Score: 0.398
+  MW: 499.7, LogP: 3.40
+  Absorption: Good
+  BBB: Unlikely
+
+Glibenclamide
+  Drug-likeness: Good
+  QED Score: 0.382
+  MW: 516.0, LogP: 3.55
+  Absorption: Moderate
+  BBB: Unlikely
+
+Salubrinal
+  Drug-likeness: Good
+  QED Score: 0.369
+  MW: 361.9, LogP: 3.59
+  Absorption: Good
+  BBB: Likely
+
+Metformin
+  Drug-likeness: Good
+  QED Score: 0.249
+  MW: 129.2, LogP: -1.03
+  Absorption: Good
+  BBB: Unlikely
+
+======================================================================
+RECOMMENDATIONS
+======================================================================
+
+Top candidates by drug-likeness (QED score):
+  1. Piragliatin (QED=0.792)
+  2. 4-PBA (QED=0.769)
+  3. Diazoxide (QED=0.737)
+  4. Glipizide (QED=0.607)
+  5. Dapagliflozin (QED=0.582)

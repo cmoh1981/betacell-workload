@@ -1,0 +1,14 @@
+{
+  "validation_type": "external",
+  "n_datasets": 1,
+  "results": [
+    {
+      "dataset": "beta_trajectory",
+      "n_cells": 11345,
+      "pseudotime_col": "dpt_pseudotime",
+      "cwi_pseudotime_corr": -0.03277295455336571,
+      "cwi_pseudotime_pval": 0.0004806835708783564
+    }
+  ],
+  "summary": {}
+}

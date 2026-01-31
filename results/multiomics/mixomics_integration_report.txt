@@ -1,0 +1,53 @@
+=
+ ======================================================================
+MULTI-OMICS INTEGRATION REPORT - BETA-CELL WORKLOAD
+======================================================================
+
+ANALYSIS SUMMARY
+----------------
+Total cells analyzed: 500
+High workload cells: 250
+Low workload cells: 250
+
+OMICS DATA
+-----------
+RNA-seq features: 227
+Proteomics features: 100
+Metabolomics features: 61
+
+sPLS PAIRWISE CORRELATIONS
+--------------------------
+RNA-Protein correlation (comp 1): 0.636
+RNA-Metabolomics correlation (comp 1): 0.558
+
+DIABLO RESULTS
+--------------
+Model error rate: 0.366
+
+Selected features per block:
+  RNA: 73
+  Protein: 51
+  Metabolomics: 18
+
+WORKLOAD SIGNATURE FEATURES
+---------------------------
+  RNA : NKX6-1, PDX1, IAPP, SLC2A2, INS, GCK, MAFA, ERN1, XBP1
+  Protein : INS, SLC2A2, IAPP, GCK, NKX6-1, XBP1, PDX1, MAFA, HSPA5, ATF4
+  Metabolomics : Glucose, Pyruvate, ATP
+
+======================================================================
+FILES GENERATED
+======================================================================
+- spls_rna_protein_samples.pdf
+- spls_rna_protein_variables.pdf
+- diablo_consensus_samples.pdf
+- diablo_block_samples.pdf
+- diablo_variables.pdf
+- diablo_circos.pdf
+- diablo_heatmap.pdf
+- diablo_loadings.pdf
+- diablo_selected_rna.csv
+- diablo_selected_protein.csv
+- diablo_selected_metabolomics.csv
+- diablo_workload_signature.csv
+

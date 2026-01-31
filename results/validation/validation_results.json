@@ -1,0 +1,12 @@
+{
+  "cwi_comparison": {
+    "t2d_n": 99,
+    "healthy_n": 170,
+    "t2d_mean": 46066.1024631572,
+    "t2d_std": 56432.85634196045,
+    "healthy_mean": 80656.8449339588,
+    "healthy_std": 79580.24741351225,
+    "mannwhitney_stat": 5551.0,
+    "pvalue": 3.26616591228946e-06,
+    "cohens_d": -0.5014287864251769,
+    "significant": 

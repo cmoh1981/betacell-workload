@@ -1,0 +1,112 @@
+======================================================================
+NETWORK PHARMACOLOGY REPORT - WORKLOAD MODULATORS
+======================================================================
+
+SUMMARY
+----------------------------------------
+Drugs analyzed: 11
+Drug combinations evaluated: 55
+Enriched pathways: 1012
+
+TOP DRUGS BY NETWORK PHARMACOLOGY SCORE
+----------------------------------------
+
+BRD7552 (NP Score: 105.13)
+  Targets: PDX1
+  Action: inducer
+  Status: research
+  Direct workload targets: 1
+  Relevant pathways: 50
+
+Dorzagliatin (NP Score: 91.38)
+  Targets: GCK
+  Action: activator
+  Status: approved
+  Direct workload targets: 1
+  Relevant pathways: 43
+
+Piragliatin (NP Score: 91.38)
+  Targets: GCK
+  Action: activator
+  Status: phase2
+  Direct workload targets: 1
+  Relevant pathways: 43
+
+Salubrinal (NP Score: 90.91)
+  Targets: EIF2AK3, DDIT3
+  Action: modulator
+  Status: research
+  Direct workload targets: 2
+  Relevant pathways: 41
+
+4-PBA (NP Score: 82.36)
+  Targets: HSPA5
+  Action: chaperone
+  Status: approved
+  Direct workload targets: 1
+  Relevant pathways: 38
+
+======================================================================
+TOP SYNERGISTIC COMBINATIONS
+======================================================================
+
+Salubrinal + Diazoxide (Synergy: 114.15)
+  Categories: stress, capacity
+  Mechanism: Capacity + Stress reduction; modulator + opener
+  Unique targets: 3
+
+Salubrinal + Glibenclamide (Synergy: 114.15)
+  Categories: stress, capacity
+  Mechanism: Capacity + Stress reduction; modulator + inhibitor
+  Unique targets: 3
+
+Salubrinal + Metformin (Synergy: 111.75)
+  Categories: stress
+  Mechanism: modulator + activator
+  Unique targets: 4
+
+Dorzagliatin + Salubrinal (Synergy: 103.8)
+  Categories: stress, capacity
+  Mechanism: Capacity + Stress reduction; activator + modulator
+  Unique targets: 3
+
+Piragliatin + Salubrinal (Synergy: 103.8)
+  Categories: stress, capacity
+  Mechanism: Capacity + Stress reduction; activator + modulator
+  Unique targets: 3
+
+======================================================================
+ENRICHED PATHWAYS (FDR < 0.05)
+======================================================================
+  HP_REDUCED_PANCREATIC_BETA_CELLS: 6 genes (FDR=2.79e-15)
+  REACTOME_REGULATION_OF_GENE_EXPRESSION_IN_BETA_CELLS: 7 genes (FDR=1.27e-14)
+  KEGG_MATURITY_ONSET_DIABETES_OF_THE_YOUNG: 7 genes (FDR=3.49e-14)
+  HP_ABNORMALITY_OF_ENDOCRINE_PANCREAS_PHYSIOLOGY: 7 genes (FDR=8.48e-14)
+  HP_IMPAIRED_GLUCOSE_TOLERANCE: 7 genes (FDR=8.84e-14)
+  HALLMARK_PANCREAS_BETA_CELLS: 7 genes (FDR=6.72e-13)
+  REACTOME_REGULATION_OF_BETA_CELL_DEVELOPMENT: 7 genes (FDR=8.33e-13)
+  KEGG_TYPE_II_DIABETES_MELLITUS: 7 genes (FDR=1.69e-12)
+  HP_NEONATAL_INSULIN_DEPENDENT_DIABETES_MELLITUS: 6 genes (FDR=2.39e-12)
+  HP_MODERATE_ALBUMINURIA: 5 genes (FDR=3.72e-12)
+
+======================================================================
+THERAPEUTIC RECOMMENDATIONS
+======================================================================
+
+Based on network analysis, recommended treatment strategies:
+
+1. MONOTHERAPY (highest NP scores):
+   - BRD7552: inducer of PDX1
+   - Dorzagliatin: activator of GCK
+   - Piragliatin: activator of GCK
+
+2. COMBINATION THERAPY (highest synergy):
+   - Salubrinal + Diazoxide: Capacity + Stress reduction; modulator + opener
+   - Salubrinal + Glibenclamide: Capacity + Stress reduction; modulator + inhibitor
+   - Salubrinal + Metformin: modulator + activator
+
+3. MULTI-TARGET STRATEGY:
+   Combine drugs targeting different workload components:
+   - Capacity enhancers (GCK activators)
+   - Stress reducers (ER chaperones)
+   - Demand reducers (SGLT2 inhibitors)

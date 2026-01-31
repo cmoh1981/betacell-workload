@@ -1,0 +1,59 @@
+# Beta-Cell T2D Workload Configuration
+
+project:
+  name: "Beta-Cell T2D Workload"
+  version: "1.0.0"
+  author: "Chang-Myung Oh"
+
+paths:
+  data_raw: "data/raw"
+  data_processed: "data/processed"
+  results: "results"
+  figures: "results/figures"
+  tables: "results/tables"
+
+# Data sources from previous betacell project
+data_sources:
+  segerstolpe:
+    path: "../betacell/data/processed/segerstolpe_processed.h5ad"
+    description: "E-MTAB-5061 T2D vs Normal"
+  gse221156:
+    path: "../betacell/data/processed/gse221156_atlas_processed.h5ad"
+    description: "Large islet atlas ~245k cells"
+  enge:
+    path: "../betacell/data/processed/enge_aging_processed.h5ad"
+    description: "GSE81547 Aging pancreas"
+
+analysis:
+  min_genes: 200
+  min_cells: 3
+  max_mito_pct: 20
+  n_top_genes: 2000
+  n_pcs: 50
+  n_neighbors: 15
+  resolution: 0.8
+
+# Key gene sets for analysis
+gene_sets:
+  beta_identity:
+    - INS
+    - MAFA
+    - PDX1
+    - NKX6-1
+    - UCN3
+    - SLC2A2
+  er_stress:
+    - XBP1
+    - ATF6
+    - HSPA5
+    - DDIT3
+    - HERPUD1
+  dedifferentiation:
+    - ALDH1A3
+    - GASTRIN
+    - SOX9
+  metabolic:
+    - GCK
+    - PC
+    - TXNIP
+    - G6PC2

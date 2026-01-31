@@ -1,0 +1,20 @@
+============================================================
+WORKLOAD-METABOLIC INTEGRATION REPORT
+============================================================
+
+CWI Data: 269 cells
+States: {'S4_Exhausted': 81, 'S2_Active': 76, 'S1_Resting': 41, 'S5_Failing': 39, 'S3_Stressed': 32}
+
+GEM Model: HumanGEM
+Reactions: 12971
+Genes: 2887
+
+----------------------------------------
+STATE-METABOLIC MAPPING
+----------------------------------------
+workload_state  n_cells  mean_cwi  metabolic_growth
+    S1_Resting       41  0.886706        124.868148
+     S2_Active       76  0.885409        124.868148
+   S3_Stressed       32  0.697760        124.868148
+  S4_Exhausted       81  0.355786        124.868148
+    S5_Failing       39  0.127541        124.868148

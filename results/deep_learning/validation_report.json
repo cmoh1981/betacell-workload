@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-01-31T13:36:04.494937",
+  "results": {
+    "literature_alignment": {
+      "t2d_vs_normal": {
+        "passed": "True",
+        "t2d_mean": 3.717371074949495,
+        "normal_mean": 1.9950014664705884,
+        "t_statistic": 9.546110530029727,
+        "p_value": 9.035837428231913e-19,
+        "effect_size": 1.3034236796917782
+      },
+      "corr_PDX1": {
+        "correlation": -0.2920486031254893,
+        "p_value": 1.0917996332948942e-06,
+        "expected_negative": true,
+        "passed": "True"
+      },
+      "corr_MAFA": {
+        "correlation": -0.37324984849674125,
+        "p_value": 2.5614847327076287e-10,
+        "expected_negative": true,
+        "passed": "True"
+      },
+      "corr_UCN3": {
+        "correlation": -0.011200199553966703,
+        "p_value": 0.8549178927521104,
+        "expected_negative": true,
+        "passed": "True"
+      },
+      "corr_NKX6-1": {
+        "correlation": -0.27064648507138434,
+        "p_value": 6.713522591355188e-06,
+        "expected_negative": true,
+        "passed": "True"
+      },
+      "corr_NEUROD1": {
+        "correlation": 0.06567288297966732,
+        "p_value": 0.283155155645701,
+        "expected_negative": true,
+        "passed": "False"
+      },
+      "corr_DDIT3": {
+        "correlation": 0.11557295473876111,
+        "p_value": 0.058350094231362955,
+        "expected_positive": true,
+        "passed": "True"
+      },
+      "corr_ATF4": {
+        "correlation": -0.06812636914417078,
+        "p_value": 0.2655167959165753,
+        "expected_positive": true,
+        "passed": "False"
+      },
+      "corr_ALDH1A3": {
+        "correlation": -0.014410515424510354,
+        "p_value": 0.8140056920636636,
+        "expected_positive": true,
+        "passed": "False"
+      },
+      "corr_XBP1": {
+        "correlation": 0.28312305679357586,
+        "p_value": 2.371879604609543e-06,
+        "expected_positive": true,
+        "passed": "True"
+      },
+      "corr_HSPA5": {
+        "correlation": 0.2597907693904322,
+        "p_value": 1.5933842863155787e-05,
+        "expected_positive": true,
+        "passed": "True"
+      },
+      "cwi_literature_correlation": {
+        "correlation": -0.7594213550315096,
+        "p_value": 9.147734759384353e-52
+      }
+    },
+    "state_separation": {
+      "silhouette_score": -0.052961163222789764,
+      "adjusted_rand_index": 0.17980872512718854,
+      "state_agreement": 0.3308550185873606
+    },
+    "gene_importance": {
+      "biosynthetic": {
+        "top_5_genes": [
+          "INS",
+          "HSPA5",
+          "SLC30A8",
+          "CPE",
+          "PCSK1"
+        ],
+        "expected_genes": [
+          "INS",
+          "IAPP",
+          "HSPA5",
+          "PCSK1"
+        ],
+        "overlap": 3,
+        "overlap_ratio": 0.75
+      },
+      "metabolic": {
+        "top_5_genes": [
+          "G6PC2",
+          "PFKFB2",
+          "PAX6",
+          "PPARA",
+          "HADH"
+        ],
+        "expected_genes": [
+          "PDX1",
+          "MAFA",
+          "GCK",
+          "SLC2A2"
+        ],
+        "overlap": 0,
+        "overlap_ratio": 0.0
+      },
+      "stress": {
+        "top_5_genes": [
+          "EIF2AK3",
+          "DDIT3",
+          "GPX1",
+          "ERN1",
+          "TRIB3"
+        ],
+        "expected_genes": [
+          "DDIT3",
+          "XBP1",
+          "ATF4",
+          "ATF6"
+        ],
+        "overlap": 1,
+        "overlap_ratio": 0.25
+      },
+      "dedifferentiation": {
+        "top_5_genes": [
+          "SOX9",
+          "ALDH1A3",
+          "HK1",
+          "LDHA",
+          "HES1"
+        ],
+        "expected_genes": [
+          "ALDH1A3",
+          "LDHA",
+          "HK1"
+        ],
+        "overlap": 3,
+        "overlap_ratio": 1.0
+      }
+    },
+    "cwi_comparison": {
+      "figure_saved": "C:\\Users\\ohbry\\Aging and Metabolism Dropbox\\Oh Chang-Myung\\macbook\\workload\\results\\deep_learning\\figures\\cwi_comparison.png"
+    },
+    "plots": {
+      "figures_created": true
+    }
+  },
+  "summary": {
+    "t2d_effect_size": 1.3034236796917782,
+    "silhouette_score": -0.052961163222789764,
+    "adjusted_rand_index": 0.17980872512718854,
+    "tests_passed": 8,
+    "tests_total": 11,
+    "pass_rate": 0.7272727272727273
+  }
+}

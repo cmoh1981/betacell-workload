@@ -1,0 +1,39 @@
+================================================================================
+X-intNMF BETA-CELL WORKLOAD ANALYSIS REPORT
+================================================================================
+
+EXECUTIVE SUMMARY
+----------------------------------------
+[PASS] CWI is significantly ELEVATED in T2D (p = 4.05e-04)
+[INFO] 2/4 modules show significant T2D differences
+
+COMPONENT ANALYSIS
+----------------------------------------
+  Component 0 -> BIOSYNTHETIC: INS, MT-CO1, ENSG00000269028
+  Component 1 -> BIOSYNTHETIC: MT-CO1, ENSG00000269028, ENSG00000255823
+  Component 2 -> METABOLIC: MT-CO1, MT-CO2, MT-CYB
+  Component 3 -> BIOSYNTHETIC: FTL, FTH1, RBP4
+  Component 4 -> BIOSYNTHETIC: IAPP, MT-CO1, ENSG00000225840
+
+T2D ASSOCIATION RESULTS
+----------------------------------------
+  score_biosynthetic: DOWN in T2D (p=7.80e-08*, d=-0.59)
+  score_metabolic: DOWN in T2D (p=1.74e-12*, d=-0.95)
+  CWI: UP in T2D (p=4.05e-04*, d=0.40)
+
+WORKLOAD STATE DISTRIBUTION
+----------------------------------------
+  S1_Resting: 255 (94.8%)
+  S2_Active: 14 (5.2%)
+
+================================================================================
+CONCLUSIONS
+================================================================================
+
+X-intNMF successfully identified workload-related gene modules:
+  - Reduced BIOSYNTHETIC capacity in T2D
+
+The network-regularized approach captures gene module structure
+while remaining interpretable for biological insights.
+
+================================================================================
